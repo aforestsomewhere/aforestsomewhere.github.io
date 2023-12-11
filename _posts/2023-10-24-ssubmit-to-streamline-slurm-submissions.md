@@ -1,3 +1,11 @@
+---
+layout: post
+title: ssubmit for streamlined slurm submissions
+description: ssubmit for streamlined slurm submissions
+date: 2023-10-24T07:00:00-07:00
+tags: HPC Bash
+---
+
 ## ssubmit for streamlined slurm submissions
 Job management systems like SLURM let you get your shiz computed quicker, but frequently will see you spending a lot of time drafting one-off submission scripts.
 
