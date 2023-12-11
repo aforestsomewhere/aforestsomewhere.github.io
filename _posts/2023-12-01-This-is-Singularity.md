@@ -1,4 +1,10 @@
-## And, we have containers!
+---
+layout: post
+title: "This! Is! Singularity!"
+description: "Containerised computing without root"
+date: 2023-12-10T07:00:00-07:00
+tags: HPC Containers Singularity
+---
 Gave Singularity another try, after letting the dust settle on a previous traumatic experience, expecting it not to work AT ALL and being astounded and also unsurprised that it actually worked with minimal effort.
 
 The target: the wonderful ggCaller (https://github.com/samhorsfield96/ggCaller).
