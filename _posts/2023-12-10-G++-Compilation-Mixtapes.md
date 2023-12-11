@@ -1,4 +1,12 @@
-## (g++) Compilation Mixtape
+---
+layout: post
+title: "(g++) Compilation Mixtape"
+description: Compiling from source in a virtual conda env
+date: 2023-12-10T07:00:00-07:00
+tags: HPC Bash
+---
+
+## 
 Trying to do a post per week, despite it being absolutely hectic these days, and needed to install Palmscan (https://github.com/rcedgar/palmscan) locally in the line of peer review.
 
 This is in the grand scheme of things a non-event, but I am certain that the me-of-two-years-ago would definitely have abandoned the installation from source, so incremental progress maybe? Debateable... but in any case:
