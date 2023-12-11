@@ -1,7 +1,9 @@
-## Mamma, my Bash is broken!
 ---
+layout: post
+title: "Mamma, my Bash is broken!"
+description: "Understanding causes and fixes for -bash-4.1$ on your prompt"
+date: 2023-10-19T07:00:00-07:00
 tags: HPC Bash
-category: HPC Bash
 ---
 This may be useful to HPC users troubleshooting a corrupted bash profile. Disclaimer that it will grossly oversimplify the computing concepts, and is collated from info from the holy trinity of StackExchange, ServerFault and the Raspberry Pi userbase. 
 Depending on the specific local setup, you likely have ~/.bashrc and ~/.bash_profile files in your home folder. If you don't see them, it's probably because they are "hidden" files starting with a fullstop, but try to list it and it should be visible: 
