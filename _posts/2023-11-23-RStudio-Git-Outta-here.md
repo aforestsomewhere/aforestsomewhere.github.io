@@ -1,4 +1,11 @@
-## Adventures in keys and tokens
+---
+layout: post
+title: "RStudio? Git Outta here"
+description: "Adventures in keys and tokens"
+date: 2023-11-23T07:00:00-07:00
+tags: HPC R GIT
+---
+## 
 Quickly jotting down notes to use AWS-CLI and PAT to resolve issues installing R packages from Github today...
 ```tsql
 module load awscli/1.19.71
